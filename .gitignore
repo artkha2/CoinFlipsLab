@@ -1,3 +1,7 @@
+# Output for TPQs
+*.xlsx
+*.png
+
 # Prerequisites
 *.d
 
